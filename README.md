@@ -14,9 +14,6 @@ https://maxmao400.github.io-bank/
 · CSS
 · JavaScript
 
-# Author
-Weijie Mao (Max)
-
 
 
 
