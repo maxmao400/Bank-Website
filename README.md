@@ -9,6 +9,13 @@ https://maxmao400.github.io-bank/
 
 ![1675801583735](https://user-images.githubusercontent.com/78703891/217357295-b18f7700-9b3f-404d-b95c-fcf3ea15960e.png)
 
+# Built With
+· HTML
+· CSS
+· JavaScript
+
+# Author
+Weijie Mao (Max)
 
 
 
