@@ -1,5 +1,5 @@
 # Website Link
-https://maxmao400.github.io-bank/
+https://maxmao400.github.io/bank/
 
 ![1675801477711](https://user-images.githubusercontent.com/78703891/217356931-c4bd8fc4-a7ce-4c16-a18a-dee33e0fab0a.png)
 
